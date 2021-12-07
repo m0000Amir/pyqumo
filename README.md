@@ -1,4 +1,17 @@
-# PyQumo - Queueing models in Python
+
+# End-2-end delay queueing model of IEEE 802.11 network
+
+## The folder `./experiments` consists **queueing models comparison of end-2-end delay of wirelss broadband network IEEE 802.11 with NS-3 dataset** 
+
+
+# The project forked from https://github.com/ipu69/pyqumo
+
+## PyQumo - Queueing models in Python 
+
+
+
+# ⬇ About installing puqumo bellow ⬇
+
 
 ## How to install for development
 
